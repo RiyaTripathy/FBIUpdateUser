@@ -1,3 +1,3 @@
 [General]
 url=https://familybusinessinstitute.oktapreview.com
-token=00YBqQ5-P9sOWaE28TSzLdhnEzwvHn_DsVYI8VvSPz
+token=<api token>

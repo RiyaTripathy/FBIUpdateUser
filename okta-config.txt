@@ -1,3 +1,3 @@
 [General]
-url=https://familybusinessinstitute.oktapreview.com
+url=<url>
 token=<api token>
